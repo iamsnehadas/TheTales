@@ -1,0 +1,37 @@
+body {
+    font-family: helvetica, sans-serif;
+    background-color: antiquewhite;
+    text-align: center;
+    background-image: url(Fin.jpg);
+  }
+  h1{
+    font-style: italic;
+    color: #1f0a02;
+  }
+  h3{
+    font-size: xx-large;
+    color: #1f0a02;
+  }
+
+  label {
+    font-weight: bold;
+  }
+
+  div {
+    padding-bottom: 20px;
+  }
+
+  input[type="text"] {
+    padding: 5px;
+    /*width: 150px;*/
+  }
+
+  p {
+    font-style: oblique;
+    font-size: larger;
+    font-weight: 600;
+    background: #af9e75;
+    color: #5e2612;
+    padding: 10px;
+    visibility: hidden;
+  }
